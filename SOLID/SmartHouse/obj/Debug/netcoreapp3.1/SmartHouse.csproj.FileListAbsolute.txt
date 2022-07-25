@@ -1,0 +1,204 @@
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\appsettings.json
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\SmartHouse.exe
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.csprojAssemblyReference.cache
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.AssemblyInfo.cs
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.RazorTargetAssemblyInfo.cache
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\obj\Debug\netcoreapp3.1\staticwebassets\SmartHouse.StaticWebAssets.Manifest.cache
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\obj\Debug\netcoreapp3.1\staticwebassets\SmartHouse.StaticWebAssets.xml
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\SmartHouse.deps.json
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\SmartHouse.runtimeconfig.json
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\SmartHouse.runtimeconfig.dev.json
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\SmartHouse.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\SmartHouse.pdb
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.csproj.CopyComplete
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.pdb
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.genruntimeconfig.cache
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.MvcApplicationPartsAssemblyInfo.cache
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\SmartHouse.StaticWebAssets.xml
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\SmartHouse.exe
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\SmartHouse.deps.json
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\SmartHouse.runtimeconfig.json
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\SmartHouse.runtimeconfig.dev.json
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\SmartHouse.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\SmartHouse.pdb
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship\SOLID\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.csproj.AssemblyReference.cache
+D:\Internship\SOLID\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\SOLID\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.AssemblyInfoInputs.cache
+D:\Internship\SOLID\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.AssemblyInfo.cs
+D:\Internship\SOLID\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.csproj.CoreCompileInputs.cache
+D:\Internship\SOLID\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.MvcApplicationPartsAssemblyInfo.cs
+D:\Internship\SOLID\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.MvcApplicationPartsAssemblyInfo.cache
+D:\Internship\SOLID\Internship\SmartHouse\obj\Debug\netcoreapp3.1\staticwebassets\SmartHouse.StaticWebAssets.Manifest.cache
+D:\Internship\SOLID\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.RazorTargetAssemblyInfo.cache
+D:\Internship\SOLID\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.csproj.CopyComplete
+D:\Internship\SOLID\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.dll
+D:\Internship\SOLID\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.pdb
+D:\Internship\SOLID\Internship\SmartHouse\obj\Debug\netcoreapp3.1\SmartHouse.genruntimeconfig.cache

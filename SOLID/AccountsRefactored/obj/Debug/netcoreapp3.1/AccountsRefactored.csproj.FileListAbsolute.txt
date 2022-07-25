@@ -1,0 +1,20 @@
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\AccountsRefactored\bin\Debug\netcoreapp3.1\AccountsRefactored.exe
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\AccountsRefactored\bin\Debug\netcoreapp3.1\AccountsRefactored.deps.json
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\AccountsRefactored\bin\Debug\netcoreapp3.1\AccountsRefactored.runtimeconfig.json
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\AccountsRefactored\bin\Debug\netcoreapp3.1\AccountsRefactored.runtimeconfig.dev.json
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\AccountsRefactored\bin\Debug\netcoreapp3.1\AccountsRefactored.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\AccountsRefactored\bin\Debug\netcoreapp3.1\AccountsRefactored.pdb
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\AccountsRefactored\obj\Debug\netcoreapp3.1\AccountsRefactored.csprojAssemblyReference.cache
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\AccountsRefactored\obj\Debug\netcoreapp3.1\AccountsRefactored.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\AccountsRefactored\obj\Debug\netcoreapp3.1\AccountsRefactored.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\AccountsRefactored\obj\Debug\netcoreapp3.1\AccountsRefactored.AssemblyInfo.cs
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\AccountsRefactored\obj\Debug\netcoreapp3.1\AccountsRefactored.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\AccountsRefactored\obj\Debug\netcoreapp3.1\AccountsRefactored.pdb
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\AccountsRefactored\obj\Debug\netcoreapp3.1\AccountsRefactored.genruntimeconfig.cache
+D:\Internship\SOLID\Internship\AccountsRefactored\obj\Debug\netcoreapp3.1\AccountsRefactored.csproj.AssemblyReference.cache
+D:\Internship\SOLID\Internship\AccountsRefactored\obj\Debug\netcoreapp3.1\AccountsRefactored.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\SOLID\Internship\AccountsRefactored\obj\Debug\netcoreapp3.1\AccountsRefactored.AssemblyInfoInputs.cache
+D:\Internship\SOLID\Internship\AccountsRefactored\obj\Debug\netcoreapp3.1\AccountsRefactored.AssemblyInfo.cs
+D:\Internship\SOLID\Internship\AccountsRefactored\obj\Debug\netcoreapp3.1\AccountsRefactored.csproj.CoreCompileInputs.cache
+D:\Internship\SOLID\Internship\AccountsRefactored\obj\Debug\netcoreapp3.1\AccountsRefactored.dll
+D:\Internship\SOLID\Internship\AccountsRefactored\obj\Debug\netcoreapp3.1\AccountsRefactored.pdb

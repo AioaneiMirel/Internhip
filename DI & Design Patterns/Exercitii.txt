@@ -1,0 +1,12 @@
+1.Write a program similar to the one in the attached image that is able to build a person.
+2.Write a program that reads data from a list of integers [-100,100] and writes
+	-the negative numbers in a list
+	-the positive numbers in a list
+	-the even numbers in a list
+	-the odd numbers in a list
+	-the multiples of 10 in a list	
+and then displays all data
+Notes: you are allowed to use 'if' statement in your code
+       you are not alowed to use ternar operator
+	   you are not allowed to use switch statements
+	   

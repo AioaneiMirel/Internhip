@@ -1,0 +1,27 @@
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilter\bin\Debug\netcoreapp3.1\CarsFilter.exe
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilter\bin\Debug\netcoreapp3.1\CarsFilter.deps.json
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilter\bin\Debug\netcoreapp3.1\CarsFilter.runtimeconfig.json
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilter\bin\Debug\netcoreapp3.1\CarsFilter.runtimeconfig.dev.json
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilter\bin\Debug\netcoreapp3.1\CarsFilter.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilter\bin\Debug\netcoreapp3.1\CarsFilter.pdb
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilter\obj\Debug\netcoreapp3.1\CarsFilter.csprojAssemblyReference.cache
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilter\obj\Debug\netcoreapp3.1\CarsFilter.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilter\obj\Debug\netcoreapp3.1\CarsFilter.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilter\obj\Debug\netcoreapp3.1\CarsFilter.AssemblyInfo.cs
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilter\obj\Debug\netcoreapp3.1\CarsFilter.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilter\obj\Debug\netcoreapp3.1\CarsFilter.pdb
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilter\obj\Debug\netcoreapp3.1\CarsFilter.genruntimeconfig.cache
+D:\Internship\SOLID\Internship\CarsFilter\bin\Debug\netcoreapp3.1\CarsFilter.exe
+D:\Internship\SOLID\Internship\CarsFilter\bin\Debug\netcoreapp3.1\CarsFilter.deps.json
+D:\Internship\SOLID\Internship\CarsFilter\bin\Debug\netcoreapp3.1\CarsFilter.runtimeconfig.json
+D:\Internship\SOLID\Internship\CarsFilter\bin\Debug\netcoreapp3.1\CarsFilter.runtimeconfig.dev.json
+D:\Internship\SOLID\Internship\CarsFilter\bin\Debug\netcoreapp3.1\CarsFilter.dll
+D:\Internship\SOLID\Internship\CarsFilter\bin\Debug\netcoreapp3.1\CarsFilter.pdb
+D:\Internship\SOLID\Internship\CarsFilter\obj\Debug\netcoreapp3.1\CarsFilter.csproj.AssemblyReference.cache
+D:\Internship\SOLID\Internship\CarsFilter\obj\Debug\netcoreapp3.1\CarsFilter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\SOLID\Internship\CarsFilter\obj\Debug\netcoreapp3.1\CarsFilter.AssemblyInfoInputs.cache
+D:\Internship\SOLID\Internship\CarsFilter\obj\Debug\netcoreapp3.1\CarsFilter.AssemblyInfo.cs
+D:\Internship\SOLID\Internship\CarsFilter\obj\Debug\netcoreapp3.1\CarsFilter.csproj.CoreCompileInputs.cache
+D:\Internship\SOLID\Internship\CarsFilter\obj\Debug\netcoreapp3.1\CarsFilter.dll
+D:\Internship\SOLID\Internship\CarsFilter\obj\Debug\netcoreapp3.1\CarsFilter.pdb
+D:\Internship\SOLID\Internship\CarsFilter\obj\Debug\netcoreapp3.1\CarsFilter.genruntimeconfig.cache

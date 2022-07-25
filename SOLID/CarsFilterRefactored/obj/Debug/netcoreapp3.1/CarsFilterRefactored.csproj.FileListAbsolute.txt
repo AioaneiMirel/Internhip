@@ -1,0 +1,27 @@
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilterRefactored\bin\Debug\netcoreapp3.1\CarsFilterRefactored.exe
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilterRefactored\bin\Debug\netcoreapp3.1\CarsFilterRefactored.deps.json
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilterRefactored\bin\Debug\netcoreapp3.1\CarsFilterRefactored.runtimeconfig.json
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilterRefactored\bin\Debug\netcoreapp3.1\CarsFilterRefactored.runtimeconfig.dev.json
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilterRefactored\bin\Debug\netcoreapp3.1\CarsFilterRefactored.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilterRefactored\bin\Debug\netcoreapp3.1\CarsFilterRefactored.pdb
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilterRefactored\obj\Debug\netcoreapp3.1\CarsFilterRefactored.csprojAssemblyReference.cache
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilterRefactored\obj\Debug\netcoreapp3.1\CarsFilterRefactored.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilterRefactored\obj\Debug\netcoreapp3.1\CarsFilterRefactored.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilterRefactored\obj\Debug\netcoreapp3.1\CarsFilterRefactored.AssemblyInfo.cs
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilterRefactored\obj\Debug\netcoreapp3.1\CarsFilterRefactored.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilterRefactored\obj\Debug\netcoreapp3.1\CarsFilterRefactored.pdb
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\CarsFilterRefactored\obj\Debug\netcoreapp3.1\CarsFilterRefactored.genruntimeconfig.cache
+D:\Internship\SOLID\Internship\CarsFilterRefactored\bin\Debug\netcoreapp3.1\CarsFilterRefactored.exe
+D:\Internship\SOLID\Internship\CarsFilterRefactored\bin\Debug\netcoreapp3.1\CarsFilterRefactored.deps.json
+D:\Internship\SOLID\Internship\CarsFilterRefactored\bin\Debug\netcoreapp3.1\CarsFilterRefactored.runtimeconfig.json
+D:\Internship\SOLID\Internship\CarsFilterRefactored\bin\Debug\netcoreapp3.1\CarsFilterRefactored.runtimeconfig.dev.json
+D:\Internship\SOLID\Internship\CarsFilterRefactored\bin\Debug\netcoreapp3.1\CarsFilterRefactored.dll
+D:\Internship\SOLID\Internship\CarsFilterRefactored\bin\Debug\netcoreapp3.1\CarsFilterRefactored.pdb
+D:\Internship\SOLID\Internship\CarsFilterRefactored\obj\Debug\netcoreapp3.1\CarsFilterRefactored.csproj.AssemblyReference.cache
+D:\Internship\SOLID\Internship\CarsFilterRefactored\obj\Debug\netcoreapp3.1\CarsFilterRefactored.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\SOLID\Internship\CarsFilterRefactored\obj\Debug\netcoreapp3.1\CarsFilterRefactored.AssemblyInfoInputs.cache
+D:\Internship\SOLID\Internship\CarsFilterRefactored\obj\Debug\netcoreapp3.1\CarsFilterRefactored.AssemblyInfo.cs
+D:\Internship\SOLID\Internship\CarsFilterRefactored\obj\Debug\netcoreapp3.1\CarsFilterRefactored.csproj.CoreCompileInputs.cache
+D:\Internship\SOLID\Internship\CarsFilterRefactored\obj\Debug\netcoreapp3.1\CarsFilterRefactored.dll
+D:\Internship\SOLID\Internship\CarsFilterRefactored\obj\Debug\netcoreapp3.1\CarsFilterRefactored.pdb
+D:\Internship\SOLID\Internship\CarsFilterRefactored\obj\Debug\netcoreapp3.1\CarsFilterRefactored.genruntimeconfig.cache

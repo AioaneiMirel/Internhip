@@ -1,0 +1,1 @@
+﻿Get rid of 'new' keyword in the application

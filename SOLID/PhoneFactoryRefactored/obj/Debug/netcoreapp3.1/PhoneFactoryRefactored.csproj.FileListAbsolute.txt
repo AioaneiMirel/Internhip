@@ -1,0 +1,13 @@
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\PhoneFactoryRefactored\bin\Debug\netcoreapp3.1\PhoneFactoryRefactored.exe
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\PhoneFactoryRefactored\bin\Debug\netcoreapp3.1\PhoneFactoryRefactored.deps.json
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\PhoneFactoryRefactored\bin\Debug\netcoreapp3.1\PhoneFactoryRefactored.runtimeconfig.json
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\PhoneFactoryRefactored\bin\Debug\netcoreapp3.1\PhoneFactoryRefactored.runtimeconfig.dev.json
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\PhoneFactoryRefactored\bin\Debug\netcoreapp3.1\PhoneFactoryRefactored.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\PhoneFactoryRefactored\bin\Debug\netcoreapp3.1\PhoneFactoryRefactored.pdb
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\PhoneFactoryRefactored\obj\Debug\netcoreapp3.1\PhoneFactoryRefactored.csprojAssemblyReference.cache
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\PhoneFactoryRefactored\obj\Debug\netcoreapp3.1\PhoneFactoryRefactored.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\PhoneFactoryRefactored\obj\Debug\netcoreapp3.1\PhoneFactoryRefactored.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\PhoneFactoryRefactored\obj\Debug\netcoreapp3.1\PhoneFactoryRefactored.AssemblyInfo.cs
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\PhoneFactoryRefactored\obj\Debug\netcoreapp3.1\PhoneFactoryRefactored.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\PhoneFactoryRefactored\obj\Debug\netcoreapp3.1\PhoneFactoryRefactored.pdb
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\PhoneFactoryRefactored\obj\Debug\netcoreapp3.1\PhoneFactoryRefactored.genruntimeconfig.cache

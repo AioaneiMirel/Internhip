@@ -1,0 +1,27 @@
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\Accounts\bin\Debug\netcoreapp3.1\Accounts.exe
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\Accounts\bin\Debug\netcoreapp3.1\Accounts.deps.json
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\Accounts\bin\Debug\netcoreapp3.1\Accounts.runtimeconfig.json
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\Accounts\bin\Debug\netcoreapp3.1\Accounts.runtimeconfig.dev.json
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\Accounts\bin\Debug\netcoreapp3.1\Accounts.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\Accounts\bin\Debug\netcoreapp3.1\Accounts.pdb
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\Accounts\obj\Debug\netcoreapp3.1\Accounts.csprojAssemblyReference.cache
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\Accounts\obj\Debug\netcoreapp3.1\Accounts.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\Accounts\obj\Debug\netcoreapp3.1\Accounts.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\Accounts\obj\Debug\netcoreapp3.1\Accounts.AssemblyInfo.cs
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\Accounts\obj\Debug\netcoreapp3.1\Accounts.dll
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\Accounts\obj\Debug\netcoreapp3.1\Accounts.pdb
+D:\OneDrive\OneDrive - ENDAVA\Desktop\Internship\Accounts\obj\Debug\netcoreapp3.1\Accounts.genruntimeconfig.cache
+D:\Internship\SOLID\Internship\Accounts\bin\Debug\netcoreapp3.1\Accounts.exe
+D:\Internship\SOLID\Internship\Accounts\bin\Debug\netcoreapp3.1\Accounts.deps.json
+D:\Internship\SOLID\Internship\Accounts\bin\Debug\netcoreapp3.1\Accounts.runtimeconfig.json
+D:\Internship\SOLID\Internship\Accounts\bin\Debug\netcoreapp3.1\Accounts.runtimeconfig.dev.json
+D:\Internship\SOLID\Internship\Accounts\bin\Debug\netcoreapp3.1\Accounts.dll
+D:\Internship\SOLID\Internship\Accounts\bin\Debug\netcoreapp3.1\Accounts.pdb
+D:\Internship\SOLID\Internship\Accounts\obj\Debug\netcoreapp3.1\Accounts.csproj.AssemblyReference.cache
+D:\Internship\SOLID\Internship\Accounts\obj\Debug\netcoreapp3.1\Accounts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\SOLID\Internship\Accounts\obj\Debug\netcoreapp3.1\Accounts.AssemblyInfoInputs.cache
+D:\Internship\SOLID\Internship\Accounts\obj\Debug\netcoreapp3.1\Accounts.AssemblyInfo.cs
+D:\Internship\SOLID\Internship\Accounts\obj\Debug\netcoreapp3.1\Accounts.csproj.CoreCompileInputs.cache
+D:\Internship\SOLID\Internship\Accounts\obj\Debug\netcoreapp3.1\Accounts.dll
+D:\Internship\SOLID\Internship\Accounts\obj\Debug\netcoreapp3.1\Accounts.pdb
+D:\Internship\SOLID\Internship\Accounts\obj\Debug\netcoreapp3.1\Accounts.genruntimeconfig.cache
